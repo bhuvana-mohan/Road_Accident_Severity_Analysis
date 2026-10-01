@@ -141,3 +141,8 @@ B.Tech — Artificial Intelligence and Data Science
 ## License
 
 No license has been specified yet. Add a `LICENSE` file if you want to define how others may use, modify, and distribute this project.
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
