@@ -5,6 +5,9 @@ A machine learning and data analytics project that explores road accident patter
 ## Live Dashboard
 
 [Open the Streamlit Dashboard](https://roadaccidentseverityanalysis-3vzorqe4gtlgvxqjiepdsl.streamlit.app/)
+## Dashboard Preview
+
+![Road Accident Severity Analysis Dashboard](dashboard.png)
 
 ## Project Overview
 
